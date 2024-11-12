@@ -6,6 +6,15 @@ Kvaesitso is a search focused, free and open source launcher for Android.
 
 [Website and documentation](https://kvaesitso.mm20.de)
 
+## Features
+
+- search based
+- integration with Nextcloud, Google Drive, Owncloud, DropBox
+- searchable contacts, calender, files (local and remote)
+- plugins for weather and public transport
+- integration with playable media (video, audio)
+- easy custom icons and integration with android 13 color changing
+
 ## Installation
 
 ### Using an F-Droid client and MM20's repo
